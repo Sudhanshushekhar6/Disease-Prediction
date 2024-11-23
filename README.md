@@ -3,7 +3,9 @@ This project uses Machine Learning to analyze patient data and predict the likel
 
 ## Features
 Risk Prediction: Assess the likelihood of chronic diseases based on patient health data.
+
 Personalized Recommendations: Provide actionable, patient-specific health improvement suggestions.
+
 Data-Driven Insights: Empower healthcare professionals with meaningful analytics.
 ## How It Works
 Input patient data (e.g., age, lifestyle, medical history).
